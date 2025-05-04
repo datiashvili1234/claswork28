@@ -1,0 +1,61 @@
+body {
+  background-color: hsl(227, 75%, 14%);
+}
+.div-1 {
+  background-color: hsl(225, 23%, 24%);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-radius: 18px;
+  padding: 10px;
+  margin-left: 90px;
+  margin-right: 90px;
+  margin-top: 30px;
+}
+.img-1 {
+}
+.h-1 {
+  color: white;
+  margin-left: 90px;
+}
+
+.img5 {
+  min-width: 300px;
+}
+.div-2 {
+  background-color: hsl(227, 60%, 16%);
+  padding: 9px;
+  border-radius: 10px;
+}
+.div4 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-right: 90px;
+}
+.but1 {
+  background-color: hsl(3, 71%, 56%);
+  border: 0;
+  padding: 10px;
+  border-radius: 15px;
+  width: 45px;
+  padding: 5px;
+}
+.but2 {
+  background-color: hsl(225, 23%, 24%);
+  border: 0;
+  border-radius: 15px;
+  padding: 7px;
+  width: 60px;
+  margin-left: 5px;
+}
+.div-11 {
+  display: flex;
+}
+.div13 {
+  margin-left: 15px;
+}
+.div12 {
+  width: 300px;
+  border: 8px solid red;
+}
